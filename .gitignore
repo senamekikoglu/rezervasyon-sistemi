@@ -1,0 +1,13 @@
+# Backend
+RezervasyonSistemi.API/bin/
+RezervasyonSistemi.API/obj/
+RezervasyonSistemi.API/.vs/
+
+# Frontend
+rezervasyon-frontend/node_modules/
+rezervasyon-frontend/dist/
+rezervasyon-frontend/.vs/
+
+# Genel
+*.user
+.DS_Store
