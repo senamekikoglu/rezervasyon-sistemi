@@ -1,12 +1,11 @@
 # Backend
-RezervasyonSistemi.API/bin/
-RezervasyonSistemi.API/obj/
-RezervasyonSistemi.API/.vs/
+bin/
+obj/
+.vs/
 
 # Frontend
-rezervasyon-frontend/node_modules/
-rezervasyon-frontend/dist/
-rezervasyon-frontend/.vs/
+node_modules/
+dist/
 
 # Genel
 *.user
