@@ -33,4 +33,18 @@ RezervasyonSistemiProjesi/
 2. `npm install` ile bağımlılıkları yükle
 3. `npm run dev` ile geliştirme sunucusunu başlat (http://localhost:5173)
 
-Detaylı dokümantasyon için proje dosyalarında yer alan Word belgesine bakabilirsiniz.
+Detaylı dokümantasyon için proje dosyalarında yer alan Word belgesine bakabilirsiniz.sss
+
+## Ekran Görüntüleri
+
+### Giriş Ekranı
+![Login](docs/login.png)
+
+### Tesis Yapısı (Tree View)
+![Tesis Yapısı](docs/tesis-yapisi.png)
+
+### Rezervasyonlar
+![Rezervasyonlar](docs/rezervasyonlar.png)
+
+### API (Swagger)
+![Swagger](docs/swagger.png)
